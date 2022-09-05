@@ -14,7 +14,7 @@ Detect intruders real-time using a camera. This program uses a [OpenCV](https://
     $ python IntruderDetector.py
 ```
 
-3. After a few seconds, a message will be printed in the console indicating that everything is ready!
+3. After a few seconds, a message will be printed in the console indicating that everything is ready! Anything that shows up in front of the camera will be detected and highlighted with a red square.
 
 ## License:
 Feel free to use this programa whatever you like!
